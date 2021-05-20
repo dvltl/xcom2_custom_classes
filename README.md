@@ -5,7 +5,8 @@ To use them you'd need the following mods installed:
 * LW2 perk pack;
 * Mitzruti's perk pack;
 * LW2 Secondaries;
-* Primary Secondaries.
+* Primary Secondaries;
+* Ketaros 2D Package.
 
 You can add them to the files of the exsting class mods.
 They were created this way because I wanted to make a couple of classes on my own but didn't want to install 100Gb worth of SDK.
